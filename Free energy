@@ -1,0 +1,28 @@
+# 📑 UNIVERSAL REPOSITORY MANIFEST: MASTER INFRASTRUCTURE PACKAGE
+### Document Reference: UHEH-UT-MB-2026
+### Status: PURE PUBLIC DOMAIN / OPEN DEVELOPMENT RELEASE
+
+---
+
+## 🌀 PART 1: UNIFIED THEORY OF ELECTROMAGNETIC & THERMAL ENERGY HARVESTING
+
+The foundational principle of the Universal Hydrostatic Energy Harvester (UHEH) relies on treating localized human presence, ambient environmental gradients, and deep hydrostatic columns as interconnected nodes within a unified thermodynamic matrix. Energy is neither generated nor destroyed; it is purely translated across four distinct operational physics layers.
+
+### Equation 1.1: Kinetic-Capacitive Displacement Mechanics
+Mechanical impulse energy derived from human footsteps ($F_k$) compressing Lead Zirconate Titanate ($PZT$) ceramic matrices generates transient voltage waves ($V(t)$). Simultaneously, moving human static potential cuts across shielded hip-height brass resonance loops, inducing micro-amperage alternating displacement currents ($I_d$) governed by capacitive coupling:
+$$I_d = C \frac{dV}{dt} + \epsilon_0 A \frac{dE}{dt}$$
+
+### Equation 1.2: Seebeck Thermal Pre-Heating Delta
+The human body constantly radiates energy as surface heat ($Q_{human} \approx 100\text{W}$). Lining furniture surfaces with Seebeck-effect thermoelectric generator (TEG) tiles creates a permanent micro-voltage charge vector when referenced against deep-earth or subsea fluid cooling lines ($T_{sink} \approx 4^\circ\text{C}$):
+$$V_{out} = \alpha \cdot (T_{human} - T_{sink})$$
+By routing the physical cooling lines backing these elements into a closed-loop hydronic siphon, the system channels waste body heat directly into the intake fluid of a hydrogen electrolyzer. Because elevating water intake temperature reduces the overall enthalpy ($\Delta H$) required for molecular water-splitting, this thermal shortcut effectively saves high-grade electrical power inside the primary 48V DC battery grid.
+
+---
+
+## 🏗️ PART 2: THE MASTER BLUEPRINT OF EVERY AREA (2,500FT SUBSEA NODE)
+
+To scale this infrastructure into an industrial-capacity, off-grid hub, the system moves past turbulent surface conditions and shifts its coordinates down to a mid-depth buoyancy layer at 2,500 feet (762 meters) below sea level. At this specific layer, surface wave stresses drop to zero, allowing the system to harness natural hydrostatic pressureheads.
+
+### 📐 Physical Equipment Space Layout (Symmetrical Balance Matrix)
+To prevent internal hull listing, structural shear, or buoyancy displacement errors under the immense 1,100 PSI (75 atmospheres) crushing force of the deep ocean, the hardware footprint is balanced symmetrically across a strict four-quadrant interior layout:
+
